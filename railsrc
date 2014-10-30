@@ -1,0 +1,2 @@
+-d postgresql #use postgres instead of sqlite
+--skip-test-unit #I use rspec
